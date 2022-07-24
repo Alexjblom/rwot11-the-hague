@@ -66,6 +66,11 @@ _Please add a level three header (`###`) for your paper's topic if it's not ther
    * by [Oskar van Deventer](mailto:oskar.vandeventer@tno.nl), TNO, Netherlands
    * Overview of the eSSIF-Lab SSI ecosystem. "eSSIF-Lab is a 7 M€, three-year (2019-2022), European-Commission-funded program that has been sponsoring start-ups, SMEs and innovators to develop open-source SSI components, SSI products and SSI services."
    * #eSSIF-Lab #SSI-ecosystem #Europe
+   
+### [Identified communications - SSI and internet communications or internet communications and SSI](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/advance-readings/SSI%20and%20internet%20communications%20or%20internet%20communications%20and%20SSI.md)
+  * by [Alex Blom](alexander.blom@bloqzone.com), Bloqzone, Netherlands
+  * Examining different solutions to the problem of identified communications
+  * #SIP #DIDComm #chat #communications
 
 ### [Multi-dimensional reputation systems using Webs of Trust](./Multi-dimensional%20reputation%20systems%20using%20webs-of-trust.md)
    * by [Oliver Klingefjord](mailto:hello@replabs.xyz), Replabs, Berlin.
@@ -101,6 +106,7 @@ _Please also enter your paper alphabetically in the form:_
 * [DID Connect, connecting people, devices and applications via DID and Verifiable Credentials](./did-connect.md)
 * [Did Resources for SSI - address ALL requirements via DIDs](./did-resources.md)
 * [eSSIF-Lab: Towards a European SSI ecosystem](./eSSIF-Lab%20-%20Towards%20a%20European%20SSI%20ecosystem.md)
+* [Identified communications - SSI and internet communications or internet communications and SSI](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/advance-readings/SSI%20and%20internet%20communications%20or%20internet%20communications%20and%20SSI.md)
 * [Multi-dimensional reputation systems using Webs of Trust](./Multi-dimensional%20reputation%20systems%20using%20webs-of-trust.md)
 * [Rendering Verifiable Credentials](./rendering-verifiable-credentials.md)
 * [Validation - The Missing Link](./validation-the-missing-link.md)
